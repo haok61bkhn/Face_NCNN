@@ -22,7 +22,7 @@
 
      gdown https://drive.google.com/uc?id=1-nb7DG4HCAYktJee2J4yuHLzzuCl0VbE
    
-  #model res50  
+  # model res50  
 
      gdown https://drive.google.com/uc?id=1fs6__eFKetPim6_UMR4Xb3f0M2KJLdlU
 
@@ -30,7 +30,7 @@
    
  
  
- #install
+ # install
  
     mkdir build
 
