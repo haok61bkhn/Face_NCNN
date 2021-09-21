@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "*.tcc": "c",
+        "bitset": "c",
+        "iomanip": "c",
+        "istream": "c",
+        "functional": "c",
+        "utility": "c"
+    }
+}
